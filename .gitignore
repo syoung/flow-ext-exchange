@@ -2,4 +2,4 @@
 *.log
 *.dump
 *.wal   # write-ahead log file
-rabbitmq/rabbitmq_server-3.8.4/var/log/rabbitmq/log/*
+rabbitmq/rabbitmq_server-3.8.4/var/log/rabbitmq/log/*log*
