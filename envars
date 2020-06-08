@@ -1,0 +1,2 @@
+export PATH=<INSTALLDIR>/ext/exchange/erlang/23.0/bin:$PATH
+export PATH=<INSTALLDIR>/ext/exchange/rabbitmq/rabbitmq_server-3.8.4/sbin:$PATH

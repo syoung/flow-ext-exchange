@@ -1,0 +1,6 @@
+%% coding: utf-8
+[{release,"Erlang/OTP","23","11.0",
+          [{kernel,"7.0","/flow/ext/exchange/erlang/23.0/lib/erlang/lib/kernel-7.0"},
+           {stdlib,"3.13","/flow/ext/exchange/erlang/23.0/lib/erlang/lib/stdlib-3.13"},
+           {sasl,"4.0","/flow/ext/exchange/erlang/23.0/lib/erlang/lib/sasl-4.0"}],
+          permanent}].
